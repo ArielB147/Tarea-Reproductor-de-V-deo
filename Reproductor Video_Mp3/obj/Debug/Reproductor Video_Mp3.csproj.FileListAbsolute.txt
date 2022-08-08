@@ -1,0 +1,16 @@
+C:\Users\ariel\source\repos\Reproductor Video_Mp3\bin\Debug\Reproductor Video_Mp3.exe.config
+C:\Users\ariel\source\repos\Reproductor Video_Mp3\bin\Debug\Reproductor Video_Mp3.exe
+C:\Users\ariel\source\repos\Reproductor Video_Mp3\bin\Debug\Reproductor Video_Mp3.pdb
+C:\Users\ariel\source\repos\Reproductor Video_Mp3\bin\Debug\Interop.WMPLib.dll
+C:\Users\ariel\source\repos\Reproductor Video_Mp3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ariel\source\repos\Reproductor Video_Mp3\obj\Debug\Reproductor Video_Mp3.csproj.AssemblyReference.cache
+C:\Users\ariel\source\repos\Reproductor Video_Mp3\obj\Debug\Reproductor Video_Mp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ariel\source\repos\Reproductor Video_Mp3\obj\Debug\Interop.WMPLib.dll
+C:\Users\ariel\source\repos\Reproductor Video_Mp3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ariel\source\repos\Reproductor Video_Mp3\obj\Debug\Reproductor Video_Mp3.csproj.ResolveComReference.cache
+C:\Users\ariel\source\repos\Reproductor Video_Mp3\obj\Debug\Reproductor_Video_Mp3.Form1.resources
+C:\Users\ariel\source\repos\Reproductor Video_Mp3\obj\Debug\Reproductor_Video_Mp3.Properties.Resources.resources
+C:\Users\ariel\source\repos\Reproductor Video_Mp3\obj\Debug\Reproductor Video_Mp3.csproj.GenerateResource.cache
+C:\Users\ariel\source\repos\Reproductor Video_Mp3\obj\Debug\Reproductor Video_Mp3.csproj.CoreCompileInputs.cache
+C:\Users\ariel\source\repos\Reproductor Video_Mp3\obj\Debug\Reproductor Video_Mp3.exe
+C:\Users\ariel\source\repos\Reproductor Video_Mp3\obj\Debug\Reproductor Video_Mp3.pdb
